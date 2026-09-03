@@ -1,0 +1,26 @@
+{
+  "name": "Evangelisk guitar musik",
+  "short_name": "Evangelisk guitar",
+  "description": "",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "da",
+  "background_color": "#EDE7D8",
+  "theme_color": "#9A4630",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

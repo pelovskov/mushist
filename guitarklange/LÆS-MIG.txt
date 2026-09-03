@@ -1,0 +1,43 @@
+Guitarklange
+============
+
+Bygget med Musikpakke · Bygger, 3.9.2026.
+
+SÅDAN LÆGGER DU DEN PÅ EN TELEFON ELLER IPAD
+
+1. Læg hele mappen "guitarklange" på et webhotel eller i et
+   GitHub Pages-repository, så den har en adresse der starter med https.
+2. Åbn adressen i Safari på iPad eller telefon.
+3. Vent til musikken er hentet. Det står på skærmen.
+4. Tryk Del-knappen og vælg "Føj til hjemmeskærm".
+5. Appen ligger nu som et ikon og virker uden internet.
+
+Appen skal ligge på https for at kunne virke offline.
+Åbner du index.html direkte fra en mappe, spiller musikken fint,
+men den kan ikke lægges på hjemmeskærmen.
+
+SÅDAN OPDATERER DU SENERE
+
+Version: musikpakke-1gyaujh
+
+Byg pakken forfra i byggeren og læg den nye mappe op oven i den gamle.
+Versionsnummeret ændrer sig automatisk, når indholdet ændrer sig.
+
+På iPad eller telefon:
+  1. Sæt enheden på wifi.
+  2. Åbn appen. Den ser den nye version, men viser stadig den gamle.
+  3. Luk appen helt (svirp den væk).
+  4. Åbn den igen. Nu hentes det nye ned.
+
+Udskifter du en mp3-fil uden at ændre noget andet, ændrer
+versionsnummeret sig ikke. Ret da navnet på et nummer i byggeren,
+så pakken tæller som ny.
+
+METADATA
+  Titel: Guitarklange
+  Udgiver: Privat
+  Dato: 2026-09-03
+  Type: Sound
+  Format: PWA (HTML + MP3)
+  Sprog: da
+  Rettigheder: Privat brug
